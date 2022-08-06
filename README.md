@@ -93,6 +93,6 @@ After Fig 6, we have the following remarks:
 - The recall for High_Risk is = **0.91**
 - The recall for Low_Risk is = **0.94**
 
-##Summary:
+## Summary:
 
 It is important to mention that the original dataset had mayority of the applicatios classified as "Low Risk" and minority as "High Risk" category; with this classification the results would be highly affected and there is a risk that the `Machine Learning` algorithms are creting clusters from too small datasets of "High Risk" applications.
